@@ -1,7 +1,4 @@
-#include "assert.h"
-#include "graphreader.h"
-#include "sparse.cuh"
-#include "dense.cuh"
+
 #include <iostream>
 #include <chrono>
 #include <vector>
